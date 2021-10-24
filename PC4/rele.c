@@ -16,7 +16,7 @@ int main()
         digitalWrite(29, HIGH); // liga o pino 21
         delay(1000);            // espera 1 segundo
         digitalWrite(29, LOW);  // desliga o pino 21
-        delay(20000);           //  espera 1 segundo
+        delay(20000);           //  espera 20 segundo
         digitalWrite(29, HIGH); // liga o pino 21
         delay(1000);            // espera 1 segundo
         digitalWrite(29, LOW);  // desliga o pino 21
